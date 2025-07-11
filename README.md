@@ -2,9 +2,6 @@
 Welcome to the Weather App project, a dynamic web application designed to provide real-time weather information at your fingertips.employing a tech stack comprising HTML, CSS, Bootstrap, and JavaScript.
 
 I used API keys from this [link](https://openweathermap.org/)
-![app](assets/weatherApp1.png) 
-![app](assets/weatherApp2.png)
-
 # Key Features:
 Responsive Design: The app is built with a mobile-first approach, ensuring a seamless experience across devices.
 Bootstrap Framework: Leveraging the power of Bootstrap for a clean and intuitive user interface.
